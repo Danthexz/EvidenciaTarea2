@@ -1,8 +1,8 @@
 public class Holamundo {
     public static void main(String[] args){
-        Holamundo();
+        Datos();
     }
-    public static void Holamundo(){
-        System.out.println("Hola mundo");
+    public static void Datos(){
+        System.out.println("Héctor Carrasco");
     }
 }
